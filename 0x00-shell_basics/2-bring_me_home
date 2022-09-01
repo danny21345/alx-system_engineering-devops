@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -en "$(cd /home)"
+echo -en "$cd\n"
